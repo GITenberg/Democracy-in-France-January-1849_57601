@@ -1,5 +1,8 @@
 _repo: Democracy-in-France-January-1849_57601
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57601-h/images/cover.jpg
 creator:
   author:
     agent_name: Guizot, François
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5686
     wikipedia: http://en.wikipedia.org/wiki/François_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57601#Democracy-in-France-January-1849
 gutenberg_issued: '2018-07-29'
 gutenberg_type: Text
 identifiers:
